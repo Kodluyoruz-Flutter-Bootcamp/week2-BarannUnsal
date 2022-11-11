@@ -1,0 +1,4 @@
+#Fri Nov 11 15:08:45 TRT 2022
+base.0=D\:\\USERDATA\\Desktop\\flutter 2. hafta\\OOP_system\\oop_system_homework\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
